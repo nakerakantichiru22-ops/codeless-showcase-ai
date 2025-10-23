@@ -11,7 +11,7 @@ const Experience = () => {
       year: "2023",
       title: "Bachelor of Technology in Computer Science",
       organization: "University Name",
-      description: "Graduated with honors. Specialized in Artificial Intelligence and Machine Learning.",
+      description: "Graduated with honors. Specialized in Artificial Intelligence and Machine Learning. University Motto: Academic Excellence.",
       type: "education",
     },
     {
